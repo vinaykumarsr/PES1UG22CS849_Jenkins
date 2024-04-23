@@ -59,20 +59,7 @@ Run the server:
 Everything should go well now vist  Running on http://127.0.0.1:8080/
 enjoy EHA
 ```
-```
-1. Show localhost address
-```
-![0.png](https://github.com/Shubhamkhapra/Email_header_analysis_forensic/blob/82055692bb57e7cae7ccf07fabbb7d92d2219495/eha/static/imgs/0.png)
 
-```
-2. Copy and Paste header in box
-```
-![1.png](https://github.com/Shubhamkhapra/Email_header_analysis_forensic/blob/82055692bb57e7cae7ccf07fabbb7d92d2219495/eha/static/imgs/1.png)
-
-```
-3. Result 
-```
-![2.png](https://github.com/Shubhamkhapra/Email_header_analysis_forensic/blob/82055692bb57e7cae7ccf07fabbb7d92d2219495/eha/static/imgs/2.png)
 
 ## Key Points EHA?
 ````
